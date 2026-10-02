@@ -1,16 +1,15 @@
-## Hi there 👋
+## Jackson Lyle
 
-<!--
-**jacksonlyle/jacksonlyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Astrophysics & Data Science double major at the University of Florida. I work on research computing, systems, and security.
 
-Here are some ideas to get you started:
+**Research** -- Funded work on computational models of active galactic nuclei (AGN): building response-function libraries with the TORMAC torus reverberation simulation code with UF's HiPerGator. I also maintain CCD/CMOS calibration and reduction pipelines for Rosemary Hill Observatory's remote observing program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Systems and security** -- I built and administer the network, servers, and software for a construction company: firewall configuration, remote access, mirrored storage with encrypted offsite backups, and centralized logging and SIEM solutions. Running production systems other people depend on helped pull me towards security. Most of my time outside class and research is spent in my home lab where I am learning by building systems, detection methods, and using software like Wazuh.
+
+### Some projects
+
+**[ccd-photometry-pipeline](https://github.com/jacksonlyle/ccd-photometry-pipeline)** — CCD reduction, aperture photometry, and SED fitting, with the two-epoch quasar dataset it produced and the [paper](https://jacksonlyle.dev/papers/quasar-uv-variability-2026.pdf) written from it.
+
+**[dotfiles](https://github.com/jacksonlyle/dotfiles)** — Arch + Hyprland rice.
+
+[jacksonlyle.dev](https://jacksonlyle.dev) · [LinkedIn](https://www.linkedin.com/in/jackson-lyle/)
