@@ -10,6 +10,8 @@ Astrophysics & Data Science double major at the University of Florida. I work on
 
 **[ccd-photometry-pipeline](https://github.com/jacksonlyle/ccd-photometry-pipeline)** — CCD reduction, aperture photometry, and SED fitting, with the two-epoch quasar dataset it produced and the [paper](https://jacksonlyle.dev/papers/quasar-uv-variability-2026.pdf) written from it.
 
+**[gqhacks](https://github.com/jacksonlyle/qghacks)** -- Algorithmic trading model designed for the 2026 University of Florida Gator Quant Hacks hackathon.
+
 **[dotfiles](https://github.com/jacksonlyle/dotfiles)** — Arch + Hyprland rice.
 
 [jacksonlyle.dev](https://jacksonlyle.dev) · [LinkedIn](https://www.linkedin.com/in/jackson-lyle/)
