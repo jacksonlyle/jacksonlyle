@@ -12,7 +12,7 @@ Astrophysics & Data Science double major at the University of Florida. I work on
 
 **[shutterbug](https://github.com/jacksonlyle/shutterbug)** — Transmissive grating spectrograph design made for a time-series analysis of antique flash-bulb spectra.
 
-**[gqhacks](https://github.com/jacksonlyle/qghacks)** — Algorithmic trading model designed for the 2026 University of Florida Gator Quant Hacks hackathon.
+**[gqhacks](https://github.com/jacksonlyle/gqhacks)** — Algorithmic trading model designed for the 2026 University of Florida Gator Quant Hacks hackathon.
 
 **[dotfiles](https://github.com/jacksonlyle/dotfiles)** — Arch + Hyprland rice.
 
